@@ -2,7 +2,7 @@
 **Name : Satya Sai Deepthi Katta**  
 **Class ID : 41**  
 
-# ASE_LAB-Assignments
+# ASE_LAB_Assignments
 This repository contains all the Lab Assignments for CS 5551-ASE Spring 2017
 
 Wiki Page for LAB 1 : https://github.com/SSDeepthiKatta/Assignment1/wiki/Assignment1
