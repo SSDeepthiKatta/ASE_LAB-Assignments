@@ -11,4 +11,6 @@ Wiki Page for LAB 2 : https://github.com/SSDeepthiKatta/ASE-LAB2/wiki
 
 Wiki Page for LAB 3 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%233
 
-Wiki Page for LAB 4 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%234
+Wiki Page for LAB 4 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%234   
+
+Wiki Page for LAB 5 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%235
