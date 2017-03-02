@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.satyasaideepthi.flipcoinappication.CoinActivity"
+    android:layout_gravity="center"
+    tools:deviceIds="wear_round"
+    android:weightSum="1">
+
+    <ImageView
+        android:src="@drawable/heads"
+        android:layout_width="82dp"
+        android:layout_height="110dp"
+        android:scaleType="centerInside"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:id="@+id/iv_coin"
+        android:layout_weight="0.28" />
+
+    <Button
+        android:text="Flip Coin"
+        android:layout_width="70dp"
+        android:id="@+id/b_flip"
+        android:layout_marginTop="75dp"
+        android:layout_marginRight="1dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
