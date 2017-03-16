@@ -18,3 +18,5 @@ Wiki Page for LAB 5 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki
 Wiki Page for LAB 6 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%236
 
 Wiki Page for LAB 7 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%237
+
+Wiki Page for LAB 8 : https://github.com/SSDeepthiKatta/ASE_LAB-Assignments/wiki/LAB-Assignment-%238
