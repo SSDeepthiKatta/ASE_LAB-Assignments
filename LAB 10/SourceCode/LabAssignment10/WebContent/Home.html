@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" class="h1">
+<head>
+    <meta charset="UTF-8">
+    <title>Users</title>
+    <script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular.js"></script>
+    <script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular-resource.js"></script>
+    <script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular-sanitize.js"></script>
+    <script src="app.js"></script>
+    <script src="login.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body ng-app="demoMongo" id="body">
+
+<div ng-controller="MongoRestController" ng-init="disp()">
+
+    <div align="center">
+        <span id="index"></span><font size="7" color="white">Welcome to Database!</font> <br /> <br />
+        </span>
+
+
+    </div><br>
+    <div class="fl">
+        <div class="container">
+            <div class="display-body">
+                <div class="display-block">
+                    <form1  action="register" method="get">
+                        <button type="submit" class="btn btn-primary" id="register">Display All Users</button>
+                    </form1>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="display-body">
+                <div class="display-block">
+                    <h1>Update User Details</h1>
+                    <form1  action="update" method="get">
+                        <input type="text" value="" placeholder="FullName" id="firstname" name="firstname"/>
+                        <input type="number" value="" placeholder="IDNumber" id="username" name="username"/>
+                        <input type="email" value="" placeholder="Email" id="username1" name="email"/>
+                        <button type="submit" class="btn btn-primary" id="register">Update</button>
+
+                    </form1>
+                </div>
+            </div>
+        </div>
+        <div class="fl1">
+            <div class="container">
+                <div class="display-body">
+                    <div class="display-block">
+                        <h1>Delete User Details</h1>
+                        <form1  action="delete" method="get">
+                            <input type="email" value="" placeholder="Email" id="username1" name="email"/>
+                            <button type="submit" class="btn btn-primary" id="register">Delete</button>
+
+                        </form1>
+                    </div>
+                </div>
+    </div>
+
+    <script>    function sync() {
+        document.getElementById('id1').value=document.getElementById('id2').value;
+    }
+    </script>
+
+</div>
+
+</body>
+</html>
